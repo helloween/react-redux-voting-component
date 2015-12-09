@@ -1,2 +1,7 @@
 voting-server/node_modules
 voting-server/npm-debug.log
+
+voting-client/node_modules
+voting-client/npm-debug.log
+voting-client/dist
+
